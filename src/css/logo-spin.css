@@ -1,0 +1,15 @@
+@keyframes spin {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+
+.logo,
+#logo,
+.logo img,
+#logo-image {
+  animation: spin 10s alternate infinite;
+}

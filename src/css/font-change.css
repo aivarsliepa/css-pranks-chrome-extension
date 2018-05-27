@@ -1,0 +1,25 @@
+@keyframes fontChange {
+  0% {
+    font-family: helvetica;
+  }
+  20% {
+    font-family: papyrus;
+  }
+  40% {
+    font-family: impact;
+  }
+  60% {
+    font-family: times;
+  }
+  80% {
+    font-family: monospace;
+  }
+  100% {
+    font-family: helvetica;
+  }
+}
+
+html,
+body {
+  animation: fontChange 120s linear infinite;
+}

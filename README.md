@@ -1,4 +1,4 @@
-# Repo for Chrome extension: CSS Pranks
+# Repo for Chrome extension: [CSS Pranks](https://chrome.google.com/webstore/detail/css-pranks/nllhmikkapodcnaoohhojjojbpjppcli)
 
 Inspired by [Tim Holman: CSS Pranks - Lightning Talk - JSConf.Asia 2018](https://www.youtube.com/watch?v=04zfAyPD9Tk)
 
